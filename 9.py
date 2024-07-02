@@ -1,2 +1,3 @@
-# This is 9.py
-print("Hello, World!")
+# Program 9
+# Write a Python program to solve quadratic equation
+
