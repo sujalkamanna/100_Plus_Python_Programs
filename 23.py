@@ -1,2 +1,2 @@
-# This is 23.py
-print("Hello, World!")
+# Program 23
+# Write a Python Program to Find HCF.

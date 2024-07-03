@@ -1,2 +1,3 @@
-# This is 22.py
-print("Hello, World!")
+# Program 22
+# Write a Python Program to Find LCM.
+
