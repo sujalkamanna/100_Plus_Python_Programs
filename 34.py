@@ -1,6 +1,7 @@
 # Program 34
 # Write a Python Program for array rotation.
 
+import random
 arr = []
 
 
@@ -11,5 +12,6 @@ for _ in range(value):
     arr.append(no)
 print(arr)
 
+shuffle = random.shuffle(arr)
 
-print("the array after rotation is:",arr[::-1])
+print("the array after rotation is:",arr)
