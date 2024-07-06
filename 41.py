@@ -1,2 +1,3 @@
-# This is 41.py
-print("Hello, World!")
+# Program 41
+# Write a Python Program to Remove Punctuation From a String.
+

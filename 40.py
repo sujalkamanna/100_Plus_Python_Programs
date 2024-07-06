@@ -1,6 +1,12 @@
 # Program 40
 # Write a Python Program to Sort Words in Alphabetic Order.
 
-str = (input("Enter string value :"))
+str = (input("Enter words:"))
 
-print("The sorted order of string is :",sorted(str))
+lower_case = str.split()
+print(lower_case)
+
+print("the sorted words are:")
+for i in lower_case:
+    lower_case.sort()
+    print(i)
