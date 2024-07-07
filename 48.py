@@ -1,2 +1,2 @@
-# This is 48.py
-print("Hello, World!")
+# Program 48
+# Write a Python program to print all pronic numbers between 1 and 100.

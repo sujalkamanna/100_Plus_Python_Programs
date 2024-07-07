@@ -1,2 +1,2 @@
-# This is 44.py
-print("Hello, World!")
+# Program 44
+# Write a Python program to print all disarium numbers between 1 to 100.
