@@ -1,7 +1,22 @@
 # Program 26
 # Write a Python Program to Make a Simple Calculator with 4 basic mathematical operations.
 
-
+print('''
+ _____________________
+|  _________________  |
+| |HAPPY CALCULATION| |
+| |_________________| |
+|  ___ ___ ___   ___  |
+| | 7 | 8 | 9 | | + | |
+| |___|___|___| |___| |
+| | 4 | 5 | 6 | | - | |
+| |___|___|___| |___| |
+| | 1 | 2 | 3 | | x | |
+| |___|___|___| |___| |
+| | . | 0 | = | | ÷ | |
+| |___|___|___| |___| |
+|_____________________|
+      ''')
 while True:
     int_1 = float(input("Enter first no:"))
     int_2 = float(input("Enter second no:"))
